@@ -1,0 +1,15 @@
+http://www.manning.com/sande/Installation_Instructions.html#mac
+
+URL for full instructions FOR MAC
+
+INSTALLER:
+
+https://docs.google.com/file/d/0B19eVvpIR9DfYzkyMDg1OTktYjVhNi00MzY1LWJlOTctZTIyOGE2NGY2MDUz/edit?ddrp=1&pli=1&hl=en#
+
+
+
+-----
+
+PySerial is seperate:
+
+http://mac.softpedia.com/progDownload/pySerial-Download-39013.html
